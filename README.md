@@ -1,6 +1,0 @@
-# cs-312-convex-hull
-<<<<<<< HEAD
-# cs-312-convex-hull
-=======
-An implementation of the convex hull alrogithm for cs 312 at byu.
->>>>>>> 25d68726afc536dab1496d5573985981f27a0e08
